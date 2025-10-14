@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://futuretools.io/sitemap.xml
+
+# Crawl-delay for bots
+User-agent: *
+Crawl-delay: 1
+
+# Block AI scrapers (optional)
+User-agent: GPTBot
+User-agent: ChatGPT-User
+User-agent: CCBot
+User-agent: anthropic-ai
+User-agent: Claude-Web
+Disallow: /
+
+# Allow Google and Bing
+User-agent: Googlebot
+User-agent: Bingbot
+Allow: /

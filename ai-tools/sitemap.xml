@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Homepage -->
+  <url>
+    <loc>https://futuretools.io/</loc>
+    <lastmod>2024-03-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- All Tools Page -->
+  <url>
+    <loc>https://futuretools.io/tools</loc>
+    <lastmod>2024-03-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- Categories Page -->
+  <url>
+    <loc>https://futuretools.io/categories</loc>
+    <lastmod>2024-03-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Submit Page -->
+  <url>
+    <loc>https://futuretools.io/submit</loc>
+    <lastmod>2024-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <!-- Category Pages -->
+  <url>
+    <loc>https://futuretools.io/category/chat</loc>
+    <lastmod>2024-03-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://futuretools.io/category/copywriting</loc>
+    <lastmod>2024-03-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://futuretools.io/category/generative-art</loc>
+    <lastmod>2024-03-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://futuretools.io/category/generative-code</loc>
+    <lastmod>2024-03-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://futuretools.io/category/video-editing</loc>
+    <lastmod>2024-03-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://futuretools.io/category/productivity</loc>
+    <lastmod>2024-03-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://futuretools.io/category/text-to-speech</loc>
+    <lastmod>2024-03-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://futuretools.io/category/research</loc>
+    <lastmod>2024-03-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://futuretools.io/category/marketing</loc>
+    <lastmod>2024-03-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://futuretools.io/category/music</loc>
+    <lastmod>2024-03-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Sample Tool Pages (add more as needed) -->
+  <url>
+    <loc>https://futuretools.io/tool/chatgpt</loc>
+    <lastmod>2024-03-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://futuretools.io/tool/midjourney</loc>
+    <lastmod>2024-03-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://futuretools.io/tool/github-copilot</loc>
+    <lastmod>2024-03-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+</urlset>
